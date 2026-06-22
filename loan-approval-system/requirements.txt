@@ -1,0 +1,11 @@
+# Project dependencies
+# Add your required packages here
+streamlit==1.41.1
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+langgraph==0.2.60
+langchain==0.3.18
+langchain-anthropic==0.3.7
+httpx==0.28.1
+pydantic==2.10.6
+python-dotenv==1.0.1
